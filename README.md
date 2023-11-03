@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm OsamaAbushama</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamaabushama1" alt="osamaabushama1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/osamaabushama" target="blank"><img src="https://img.shields.io/twitter/follow/osamaabushama?logo=twitter&style=for-the-badge" alt="osamaabushama" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://osamaabushama1.github.io/My_Portfolio/](https://osamaabushama1.github.io/My_Portfolio/)
@@ -23,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamaabushama1&show_icons=true&locale=en&layout=compact" alt="osamaabushama1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osamaabushama1&show_icons=true&locale=en" alt="osamaabushama1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamaabushama1&" alt="osamaabushama1" /></p>
