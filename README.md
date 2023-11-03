@@ -7,6 +7,10 @@
 
 - 👨‍💻 All of my projects are available at [https://osamaabushama1.github.io/My_Portfolio/](https://osamaabushama1.github.io/My_Portfolio/)
 
+- 📫 How to reach me **osamaabushama1@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mG28ygr-K1sGO2fnW6ESlEKdcy9lMqbR/view?usp=drive_link](https://drive.google.com/file/d/1mG28ygr-K1sGO2fnW6ESlEKdcy9lMqbR/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/osamaabushama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osamaabushama" height="30" width="40" /></a>
@@ -19,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamaabushama1&show_icons=true&locale=en&layout=compact" alt="osamaabushama1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osamaabushama1&show_icons=true&locale=en" alt="osamaabushama1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamaabushama1&" alt="osamaabushama1" /></p>
