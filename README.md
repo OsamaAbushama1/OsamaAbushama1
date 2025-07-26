@@ -7,16 +7,14 @@
 
 - 👨‍💻 All of my projects are available at [https://osama-portfolio1.vercel.app/](https://osama-portfolio1.vercel.app/)
 
-- 💬 Ask me about **Reactjs And Nextjs**
-
 - 📫 How to reach me **usamaabushama@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10IajxzdmSIX9PsDmjU1VNX2wARqecHdg/view?usp=drive_link](https://drive.google.com/file/d/10IajxzdmSIX9PsDmjU1VNX2wARqecHdg/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/osama_abushama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama_abushama" height="30" width="40" /></a>
-<a href="https://fb.com/osama abushama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama abushama" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/osama-abushama-59021921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-abushama-59021921a" height="30" width="40" /></a>
+<a href="https://fb.com/osama.abushama.921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama.abushama.921" height="30" width="40" /></a>
 <a href="https://instagram.com/osamaabushama_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamaabushama_" height="30" width="40" /></a>
 </p>
 
