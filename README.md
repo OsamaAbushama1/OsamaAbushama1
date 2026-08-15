@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm OSAMA ABUSHAMA</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=osamaabushama1&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophy" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on [Amri](https://www.amri-ksa.com/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://osama-abushama.vercel.app/)
@@ -75,20 +69,3 @@
 
 </p>
 
-<h3>GitHub Stats:</h3>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=osamaabushama1&show_icons=true&theme=github_dark"
-    alt="Osama's GitHub Stats"
-  />
-</p>
-
-<h3>Most Used Languages:</h3>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaabushama1&layout=compact&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
